@@ -1,6 +1,6 @@
 #### English
 
-# Project Title: Yield Prediction Model
+# Yield Prediction Model
 
 ## Project Description
 This project aims to build a machine learning model for predictive analysis using a dataset that includes multiple features, such as clone size, honeybee count, bumblebee count, temperature ranges, and other environmental variables. The goal is to predict certain outcomes (e.g., yield, seed count) based on these features.
